@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/stellent/Documents/git/MachineTest/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "/Users/stellent/.gradle/caches/transforms-2/files-2.1/e5a0c1a26ed650c85ef7de4a517df4ae/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    }
+                }
+            ]
+        }
+    ]
+}

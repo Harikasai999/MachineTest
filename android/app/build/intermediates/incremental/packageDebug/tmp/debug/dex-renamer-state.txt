@@ -1,0 +1,4 @@
+#Thu Sep 05 19:17:41 IST 2019
+base.0=/Users/stellent/Documents/git/MachineTest/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

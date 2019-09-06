@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/stellent/.gradle/caches/transforms-2/files-2.1/7c4aacede8b15868849c434bd8ebed70/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/stellent/.gradle/caches/transforms-2/files-2.1/f66f0d5a202524fae34201e69e4d8e92/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/stellent/.gradle/caches/transforms-2/files-2.1/e5a0c1a26ed650c85ef7de4a517df4ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/6722b1c4aa00c3b9a200f150124add6e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/59e7b429654f0725960d86a300df7566/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/7f78fdd1dc1086ce53396aa61f61b4d0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/b80d0b9d6831716f8994bb3519a75a43/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/49bb5a47d4d8ecb553cb3560fb816336/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/57b6cb49eb903290f17552f62a713b4d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/d682256802d7377b72686fd0129edc3c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/41413fb42f1dfd13be9ce77fe16d552f/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/604d25c1d57909ade3b42ea80273db3c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/bd8d34aba3e481ded11d84665824254e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/a86047df47cba83dba1903cda1d78ad9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/bce2cd745295d12efbf8fe74a2e40f50/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/stellent/.gradle/caches/transforms-2/files-2.1/d86144d0d7f22c35520808ae2d47f794/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/e86ffd0a3a5c2b0e8a78a768c8740769/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/e801524b8d622d6a24797d6148e7a64f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/61795c482a19130f98fc16881980aebd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/42f03adfc9e4c0dc163b7bb645ae5712/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/8e707609e45d1e877c84e0b7f3c7e9b5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/0f57a63d25209684d4227e94f090d911/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/df0a0c91169e9b1421ebfa6ff9d12850/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/b608595818c91f35cdddeb763272681f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/stellent/.gradle/caches/transforms-2/files-2.1/d79cbecbaa7e5ee1a1fe03f8231ed1d7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/cc418155d752327dabef045222e8de62/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/5fba9bbcfc4e489fbf9e8b89001a04d6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/e0836ceaeaf23f0c94db99be4106462e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/d1fb303105655648a5eb770a232959e2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/089e430626c1aecd3e76755a83328f8f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/b1ea35f014263e617d163f7c2846e397/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/adf7f43fd9010d5a149e73539987c2b2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/6df9e194a62a1da21f21aa7caa12c8c3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/e688b52afec5d15b3a7d0248a3836f31/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/3de2ce8282a7579fa59462cdeb6b405e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/fc21a453aa2d3586b67ecbb5dfd95dc7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/534453b358b3e517534a44c0cb554744/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/stellent/Documents/git/MachineTest/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/stellent/Documents/git/MachineTest/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/stellent/Documents/git/MachineTest/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:2:3-28
+		INJECTED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:2:3-28
+		INJECTED from /Users/stellent/Documents/git/MachineTest/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/stellent/Documents/git/MachineTest/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/stellent/Documents/git/MachineTest/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/stellent/.gradle/caches/transforms-2/files-2.1/7c4aacede8b15868849c434bd8ebed70/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/stellent/.gradle/caches/transforms-2/files-2.1/7c4aacede8b15868849c434bd8ebed70/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/41413fb42f1dfd13be9ce77fe16d552f/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/41413fb42f1dfd13be9ce77fe16d552f/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/stellent/.gradle/caches/transforms-2/files-2.1/d79cbecbaa7e5ee1a1fe03f8231ed1d7/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/stellent/.gradle/caches/transforms-2/files-2.1/d79cbecbaa7e5ee1a1fe03f8231ed1d7/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/cc418155d752327dabef045222e8de62/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/cc418155d752327dabef045222e8de62/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/stellent/.gradle/caches/transforms-2/files-2.1/d79cbecbaa7e5ee1a1fe03f8231ed1d7/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.machinetest.MainActivity
+ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/stellent/.gradle/caches/transforms-2/files-2.1/7c4aacede8b15868849c434bd8ebed70/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/stellent/.gradle/caches/transforms-2/files-2.1/7c4aacede8b15868849c434bd8ebed70/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/stellent/.gradle/caches/transforms-2/files-2.1/f66f0d5a202524fae34201e69e4d8e92/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/stellent/.gradle/caches/transforms-2/files-2.1/f66f0d5a202524fae34201e69e4d8e92/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/stellent/.gradle/caches/transforms-2/files-2.1/e5a0c1a26ed650c85ef7de4a517df4ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/stellent/.gradle/caches/transforms-2/files-2.1/e5a0c1a26ed650c85ef7de4a517df4ae/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/6722b1c4aa00c3b9a200f150124add6e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/6722b1c4aa00c3b9a200f150124add6e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/59e7b429654f0725960d86a300df7566/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/59e7b429654f0725960d86a300df7566/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/7f78fdd1dc1086ce53396aa61f61b4d0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/7f78fdd1dc1086ce53396aa61f61b4d0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/b80d0b9d6831716f8994bb3519a75a43/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/b80d0b9d6831716f8994bb3519a75a43/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/49bb5a47d4d8ecb553cb3560fb816336/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/49bb5a47d4d8ecb553cb3560fb816336/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/57b6cb49eb903290f17552f62a713b4d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/57b6cb49eb903290f17552f62a713b4d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/d682256802d7377b72686fd0129edc3c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/d682256802d7377b72686fd0129edc3c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/41413fb42f1dfd13be9ce77fe16d552f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/41413fb42f1dfd13be9ce77fe16d552f/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/604d25c1d57909ade3b42ea80273db3c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/604d25c1d57909ade3b42ea80273db3c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/bd8d34aba3e481ded11d84665824254e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/bd8d34aba3e481ded11d84665824254e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/a86047df47cba83dba1903cda1d78ad9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/a86047df47cba83dba1903cda1d78ad9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/bce2cd745295d12efbf8fe74a2e40f50/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/bce2cd745295d12efbf8fe74a2e40f50/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/stellent/.gradle/caches/transforms-2/files-2.1/d86144d0d7f22c35520808ae2d47f794/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/stellent/.gradle/caches/transforms-2/files-2.1/d86144d0d7f22c35520808ae2d47f794/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/e86ffd0a3a5c2b0e8a78a768c8740769/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/e86ffd0a3a5c2b0e8a78a768c8740769/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/e801524b8d622d6a24797d6148e7a64f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/e801524b8d622d6a24797d6148e7a64f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/61795c482a19130f98fc16881980aebd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/61795c482a19130f98fc16881980aebd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/42f03adfc9e4c0dc163b7bb645ae5712/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/42f03adfc9e4c0dc163b7bb645ae5712/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/8e707609e45d1e877c84e0b7f3c7e9b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/8e707609e45d1e877c84e0b7f3c7e9b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/0f57a63d25209684d4227e94f090d911/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/0f57a63d25209684d4227e94f090d911/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/df0a0c91169e9b1421ebfa6ff9d12850/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/df0a0c91169e9b1421ebfa6ff9d12850/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/b608595818c91f35cdddeb763272681f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/b608595818c91f35cdddeb763272681f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/stellent/.gradle/caches/transforms-2/files-2.1/d79cbecbaa7e5ee1a1fe03f8231ed1d7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/stellent/.gradle/caches/transforms-2/files-2.1/d79cbecbaa7e5ee1a1fe03f8231ed1d7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/cc418155d752327dabef045222e8de62/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/cc418155d752327dabef045222e8de62/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/5fba9bbcfc4e489fbf9e8b89001a04d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/5fba9bbcfc4e489fbf9e8b89001a04d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/e0836ceaeaf23f0c94db99be4106462e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/e0836ceaeaf23f0c94db99be4106462e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/d1fb303105655648a5eb770a232959e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/d1fb303105655648a5eb770a232959e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/089e430626c1aecd3e76755a83328f8f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/089e430626c1aecd3e76755a83328f8f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/b1ea35f014263e617d163f7c2846e397/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/b1ea35f014263e617d163f7c2846e397/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/adf7f43fd9010d5a149e73539987c2b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/adf7f43fd9010d5a149e73539987c2b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/6df9e194a62a1da21f21aa7caa12c8c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/6df9e194a62a1da21f21aa7caa12c8c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/e688b52afec5d15b3a7d0248a3836f31/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/e688b52afec5d15b3a7d0248a3836f31/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/3de2ce8282a7579fa59462cdeb6b405e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/3de2ce8282a7579fa59462cdeb6b405e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/fc21a453aa2d3586b67ecbb5dfd95dc7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/fc21a453aa2d3586b67ecbb5dfd95dc7/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/534453b358b3e517534a44c0cb554744/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/stellent/.gradle/caches/transforms-2/files-2.1/534453b358b3e517534a44c0cb554744/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/stellent/Documents/git/MachineTest/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/stellent/Documents/git/MachineTest/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/stellent/Documents/git/MachineTest/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/stellent/Documents/git/MachineTest/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/stellent/Documents/git/MachineTest/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/stellent/Documents/git/MachineTest/android/app/src/debug/AndroidManifest.xml:5:22-75
